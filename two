@@ -1,0 +1,1 @@
+Level up on the Javascript console in the Chrome DevTools. Look at XHR requests, learn console helper functions to monitor events or explore objects better. We dive into all sorts of goodies in the command lines API: console.time, $0, inspect(), $$, monitorEvents(), keys(), values(), and copy()
